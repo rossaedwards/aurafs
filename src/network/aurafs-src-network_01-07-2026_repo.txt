@@ -1,0 +1,79 @@
+Folder PATH listing for volume Local Disk
+Volume serial number is 8EF4-B141
+C:.
+|   aurafs-src-network_01-07-2026_repo.txt
+|   autoheal_daemon.rs
+|   discovery.rs
+|   ENTERPRISE_IMPROVEMENTS.md
+|   firewall.rs
+|   gossip.rs
+|   main.rs
+|   mesh.rs
+|   mesh_gossip.rs
+|   mod.rs
+|   node_manager.rs
+|   orchestrator.rs
+|   p2p.rs
+|   packet.rs
+|   peer.rs
+|   replication.rs
+|   reticulum_bridge.rs
+|   rns_bridge.py
+|   rns_bridge.rs
+|   RNS_BRIDGE_README.md
+|   rns_client.rs
+|   rns_daemon.py
+|   secure_tunnel.rs
+|   
++---defense
+|       dos_protector.rs
+|       intrusion_detector.rs
+|       jam_detection.rs
+|       key_rotation.rs
+|       mesh_acl.rs
+|       rate_limiter.rs
+|       
++---integration
+|       arora_network.rs
+|       crypto_bridge.rs
+|       gvs_network.rs
+|       ineffable_sync.rs
+|       opulence_bridge.rs
+|       storage_sync.rs
+|       wallet_bridge.rs
+|       
++---meshtastic_integration
+|       firmware_bridge.rs
+|       lora_config.rs
+|       lora_radio.rs
+|       meshtastic_proto.rs
+|       mesh_discovery.rs
+|       packet_parser.rs
+|       security_analysis.rs
+|       
++---meshwerk
+|       channel_manager.rs
+|       encryption.rs
+|       mesh_node.rs
+|       neighbor_table.rs
+|       roles.rs
+|       routing.rs
+|       topology_engine.rs
+|       
++---monitoring
+|       anomaly_detection.rs
+|       grafana_dash.rs
+|       log_export.rs
+|       net_metrics.rs
+|       prometheus.rs
+|       topology_map.rs
+|       
+\---transport
+        dns_client.rs
+        http_api.rs
+        quic_client.rs
+        quic_server.rs
+        tcp_stack.rs
+        udp_multicast.rs
+        websocket.rs
+        
