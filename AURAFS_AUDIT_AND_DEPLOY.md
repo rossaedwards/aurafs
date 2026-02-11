@@ -1,6 +1,6 @@
 # CURSOR MASTER PROMPT: AuraFS Physics Compliance Audit & Deployment Build Plan
 
-**Document:** `AURPHYX-CURSOR-DEPLOY-002`
+**Document:** `AURAFS_AUDIT_AND_DEPLOY`
 **Version:** 2.0 | **Date:** 2026-02-08
 **Author:** Ross A. Edwards — Aurphyx LLC
 **ORCID:** 0009-0008-0539-1289
